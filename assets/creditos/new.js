@@ -1,0 +1,1 @@
+var newCredito=new function(){var a,b,c;this.init=function(){$("#valor_personalizado_0").on("change",function(a){$("#credito_valor_personalizado").prop("disabled",this.checked)})}};$(newCredito.init);
