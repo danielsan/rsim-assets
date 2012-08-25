@@ -1,15 +1,19 @@
 ---
 gridbg.gif: gridbg-9fd62b696ccac989b81490bae2b29a11.gif
+help.gif: help-cebd83370cd23952c1bfc7d2314edf47.gif
+important.gif: important-edf06c97aaf9aea298e5013601895a4f.gif
+info.gif: info-36f02ee178d31ac0f1ecc9088173f05f.gif
 rails.png: rails-be8732dac73d845ac5b142c8fb5f9fb0.png
 rsim.png: rsim-89e34ddb0a3e5bfe5d43210d0f48e380.png
 rsim_grande.png: rsim_grande-50cd8345a4e809a7a49db39fddb942f8.png
+title.gif: title-a13bd5427b6d5df19415ec5e000ca667.gif
 wood_pattern.png: wood_pattern-40bb4bb35a417d8ba6abcda1cf99ebe2.png
 acoes/new.js: acoes/new-74247ac678758b0aacfbe527f80a8d0a.js
-application.js: application-2cee6d3e3e8d93e9daeb539cb10e1a89.js
+application.js: application-99050112e9ff07d81b7a8193a35a1553.js
 clientes.js: clientes-3af39f1da6f167c2cbf453ed74daff3d.js
 contatos.js: contatos-3af39f1da6f167c2cbf453ed74daff3d.js
-creditos/new.js: creditos/new-2b306a2de92c3b654cd07352febd0c4f.js
-jquery.alerts.js: jquery.alerts-fc0fc1ef6fbfb60ac71aca288a1463f5.js
+creditos/new.js: creditos/new-7c6c420dad32ba984aff9d56e97c33f1.js
+jquery.alerts.js: jquery.alerts-b6b917c88c7c2dda53feaa8942255ae4.js
 listas.js: listas-3af39f1da6f167c2cbf453ed74daff3d.js
 mensagens/new.js: mensagens/new-8d1bd0741d074b14732a90b6e19cefd9.js
 mensagens/show.js: mensagens/show-187bb7529720b2a573dac501c8e2c8ad.js
@@ -19,8 +23,9 @@ terminacoes.js: terminacoes-3af39f1da6f167c2cbf453ed74daff3d.js
 teste_mensagens.js: teste_mensagens-3af39f1da6f167c2cbf453ed74daff3d.js
 users.js: users-3af39f1da6f167c2cbf453ed74daff3d.js
 acoes/new.css: acoes/new-b7b54ddb6986d866db990ffadda323bc.css
-application.css: application-41d86082cb6e16fbd640284a8cb30e50.css
-creditos/new.css: creditos/new-0b5affa92fa3442d26623ed2e1d6d794.css
+application.css: application-720f4f6e3b949d3973bea8de762b08fd.css
+creditos/new.css: creditos/new-0a2dac82eea76cfd257e7439aaa3eae0.css
+jquery.alerts.css: jquery.alerts-58a653b8e76a6f10c63d6fa3dae152f9.css
 reports/realtime.css: reports/realtime-7270767b2a9e9fff880aa5de378ca791.css
 terminacoes.css: terminacoes-7270767b2a9e9fff880aa5de378ca791.css
 jquery-ui-1.8.20.autocomplete.min.js: jquery-ui-1.8.20.autocomplete.min-a907a8a6b98d864b11ab2940db8b3d57.js
