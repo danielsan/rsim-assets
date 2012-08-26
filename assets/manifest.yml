@@ -23,9 +23,9 @@ terminacoes.js: terminacoes-3af39f1da6f167c2cbf453ed74daff3d.js
 teste_mensagens.js: teste_mensagens-3af39f1da6f167c2cbf453ed74daff3d.js
 users.js: users-3af39f1da6f167c2cbf453ed74daff3d.js
 acoes/new.css: acoes/new-b7b54ddb6986d866db990ffadda323bc.css
-application.css: application-720f4f6e3b949d3973bea8de762b08fd.css
+application.css: application-5ef937b4ac7f39c302f967827a19b59e.css
 creditos/new.css: creditos/new-0a2dac82eea76cfd257e7439aaa3eae0.css
-jquery.alerts.css: jquery.alerts-58a653b8e76a6f10c63d6fa3dae152f9.css
+jquery.alerts.css: jquery.alerts-02a6c9ed6bd44f64cb7f76d77134aaee.css
 reports/realtime.css: reports/realtime-7270767b2a9e9fff880aa5de378ca791.css
 terminacoes.css: terminacoes-7270767b2a9e9fff880aa5de378ca791.css
 jquery-ui-1.8.20.autocomplete.min.js: jquery-ui-1.8.20.autocomplete.min-a907a8a6b98d864b11ab2940db8b3d57.js
